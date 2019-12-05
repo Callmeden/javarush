@@ -1,0 +1,41 @@
+package com.javarush.task.task05.task0513;
+
+/* 
+Собираем прямоугольник
+*/
+
+import org.w3c.dom.css.Rect;
+
+public class Rectangle {
+    int top, left, width, height;
+    public void initialize(int top,int left,int width,int height){
+        this.top=top;
+        this.left=left;
+        this.width=width;
+        this.height=height;
+    }
+    public void initialize(int top,int left){
+        this.top=top;
+        this.left=left;
+    }
+    public void initialize(int top,int left,int width){
+        this.top=top;
+        this.left=left;
+        this.width=width;
+    }
+    public void initialize(Rectangle rectangle,int top,int left,int width) {
+        this.top =rectangle.top;
+        this.left =rectangle.left;
+        this.width =rectangle.width;
+
+
+    }
+
+
+    public static void main(String[] args) {
+
+
+
+
+    }
+}
