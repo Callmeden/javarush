@@ -1,6 +1,6 @@
 # javarush
-This repository consists of completed tasks from Javarush.ru - website, which teaches you Java with the help of several courses and lots of tasks(1200+).||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Package named "task01" includes all files(tasks+my solutions) from Topic#01, package named "task02" - from Topic#02, etc.||||||||||||||||| 
+This repository consists of completed tasks from Javarush.ru - website, which teaches you Java with the help of several courses and lots of tasks(1200+).
+Package named "task01" includes all files(tasks+my solutions) from Topic#01, package named "task02" - from Topic#02, etc.  
 There are 4+ Courses: Java Syntax(packages task01-10), Java Core(task11-task20), Java Multithreading(task21-30), Java Collections(task31-40) etc.||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Topics(each topic of each course consists of 10+ lectures.)\Темы(каждая тема каждого курса состоит из 10+ лекций):||||||||||||||||||||||||
 Course#1, Java Syntax:||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
