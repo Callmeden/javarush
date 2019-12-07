@@ -4,7 +4,7 @@ Package named "task01" includes all files(tasks+my solutions) from Topic#01, pac
 There are 4+ Courses: Java Syntax(packages task01-10), Java Core(task11-task20), Java Multithreading(task21-30), Java Collections(task31-40) etc.  
 Topics(each topic of each course consists of 10+ lectures.)\Темы(каждая тема каждого курса состоит из 10+ лекций):   
 Course#1, Java Syntax:    
-task01:Знакомство с Java: вывод на экран, типы String и int 
+task01:Знакомство с Java: вывод на экран, типы String и int.  
 task02:Знакомство с Java: переменные, методы, классы  
 task03:Первая программа: ввод с клавиатуры, работа в IDE  
 task04:Знакомство с ветвлениями и циклами 
