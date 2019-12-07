@@ -18,11 +18,10 @@ Course#2, Java Core:
 task11:Основы ООП: основные принципы, наследование, инкапсуляция. 
 task12:Основы ООП: перегрузка, полиморфизм, абстракция, интерфейсы. 
 task13:Интерфейсы: сравнение с абстрактным классом, множественное наследование. 
-task14:Приведение типов, instanceof. Большая задача на интерфейсы. 
-task15:Перегрузка методов, особенность вызова конструкторов. 
-task16:Знакомство с нитями: Thread, Runnable, start, join, interrupt, sleep. 
-task17:Знакомство с нитями: synchronized, volatile, yield. 
-task18:Знакомство с потоками: InputStream/OutputStream, FileInputStream, FileOutputStream. 
+task14:Приведение типов, instanceof. Большая задача на интерфейсы.  
+task15:Перегрузка методов, особенность вызова конструкторов.  
+task16:Знакомство с нитями: Thread, Runnable, start, join, interrupt, sleep.  
+task17:Знакомство с нитями: synchronized, volatile, yield.  
+task18:Знакомство с потоками: InputStream/OutputStream, FileInputStream, FileOutputStream.  
 task19:Знакомство с потоками: Reader/Writer, FileReader/FileWriter. 
-task20:Сериализация.
-
+task20:Сериализация.  
