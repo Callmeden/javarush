@@ -25,3 +25,6 @@ task17:Знакомство с нитями: synchronized, volatile, yield.
 task18:Знакомство с потоками: InputStream/OutputStream, FileInputStream, FileOutputStream.  
 task19:Знакомство с потоками: Reader/Writer, FileReader/FileWriter. 
 task20:Сериализация. 
+
+
+
