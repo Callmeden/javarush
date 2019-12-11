@@ -1,0 +1,12 @@
+package com.javarush.task.task21.task2103;
+//максимально упростить return (a && b && c && !d) || (!a && c) || (!b && c) || (c && d) в методе calculate;
+public class Solution {
+    public static boolean calculate(boolean a, boolean b, boolean c, boolean d) {
+        return c
+
+    }
+
+    public static void main(String[] args) {
+
+    }
+}
