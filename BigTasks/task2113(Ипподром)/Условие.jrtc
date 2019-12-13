@@ -7,7 +7,7 @@ taskKey="com.javarush.task.task21.task2113.big16"\n\nИпподром(16)
 
 
 Требования:
-1.	Метод printWinner должен быть вызван в методе main после метода run.
+1. Метод printWinner должен быть вызван в методе main после метода run.
 
 
 Ипподром(15)
