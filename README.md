@@ -23,7 +23,7 @@ task15:Перегрузка методов, особенность вызова 
 task16:Знакомство с нитями: Thread, Runnable, start, join, interrupt, sleep.  
 task17:Знакомство с нитями: synchronized, volatile, yield.  
 task18:Знакомство с потоками: InputStream/OutputStream, FileInputStream, FileOutputStream.  
-task19:Знакомство с потоками: Reader/Writer, FileReader/FileWriter. 
+task19:Знакомство с потоками: Reader/Writer, FileReader/FileWriter.   
 task20:Сериализация.  
 Course#3, Java Multithreading:  
 task21:Устройство объекта Object: equals, hashCode, clone, wait, notify, toString()  
