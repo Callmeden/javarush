@@ -28,4 +28,5 @@ task20:Сериализация.
 Course#3, Java Multithreading:  
 task21:Устройство объекта Object: equals, hashCode, clone, wait, notify, toString()  
 task22:String: mutable, immutable, format, StringTokenizer, StringBuilder, StringBuffer  
-task23:Внутренние классы, примеры: Map.Entry
+task23:Внутренние классы, примеры: Map.Entry  
+task24:Внутренние классы, особенности реализации
