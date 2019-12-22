@@ -29,5 +29,5 @@ Course#3, Java Multithreading:
 task21:Устройство объекта Object: equals, hashCode, clone, wait, notify, toString()  
 task22:String: mutable, immutable, format, StringTokenizer, StringBuilder, StringBuffer  
 task23:Внутренние классы, примеры: Map.Entry  
-task24:Внутренние классы, особенности реализации
-
+task24:Внутренние классы, особенности реализации  
+task25:Создание и остановка нитей: start, interrupt, sleep, yield.
