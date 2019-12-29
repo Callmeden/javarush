@@ -30,4 +30,5 @@ task21:Устройство объекта Object: equals, hashCode, clone, wait
 task22:String: mutable, immutable, format, StringTokenizer, StringBuilder, StringBuffer  
 task23:Внутренние классы, примеры: Map.Entry  
 task24:Внутренние классы, особенности реализации  
-task25:Создание и остановка нитей: start, interrupt, sleep, yield.
+task25:Создание и остановка нитей: start, interrupt, sleep, yield.  
+task26:Совместный доступ к монопольным данным: synchronized, volatile
