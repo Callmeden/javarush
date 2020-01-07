@@ -58,7 +58,7 @@ public class Client {
             }
 
             if (clientConnected) {
-                socketThread.notify();
+                //socketThread.notify();???
                 ConsoleHelper.writeMessage("Соединение установлено.\n" + "Для выхода наберите команду 'exit'.");
                 while (clientConnected) {
                     String s = ConsoleHelper.readString();
