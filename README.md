@@ -33,4 +33,6 @@ task24:Внутренние классы, особенности реализа�
 task25:Создание и остановка нитей: start, interrupt, sleep, yield.  
 task26:Совместный доступ к монопольным данным: synchronized, volatile  
 task27:DeadLock. Wait, notify, notifyAll  
-task28:ThreadGroup, ThreadLocal, Executor, ExecutorService, Callable. Опыт работы с Jsoup
+task28:ThreadGroup, ThreadLocal, Executor, ExecutorService, Callable. Опыт работы с Jsoup  
+task29:Autoboxing, особенности реализации
+
