@@ -20,10 +20,9 @@ public class Solution {
             if(!string.matches("\\w+"))
                 System.out.println("incorrect");
             else{
-                StringBuilder sb=new StringBuilder(string);
                 List<String> strings = new ArrayList<>();
-                for(int i=0;i<sb.length();i++)
-                    strings.add(i, String.valueOf(sb.charAt(i)).toLowerCase());
+                for(int i=0;i<string.length();i++)
+                    strings.add(i, String.valueOf(string.charAt(i)).toLowerCase());
                 int maxSystem=2;
                 for(String s:strings){
                     if(map.containsKey(s))
