@@ -35,5 +35,5 @@ task26:Совместный доступ к монопольным данным:
 task27:DeadLock. Wait, notify, notifyAll  
 task28:ThreadGroup, ThreadLocal, Executor, ExecutorService, Callable. Опыт работы с Jsoup  
 task29:Autoboxing, особенности реализации  
-task30:Операторы: числовые, логические и бинарные. Опыт работы с Swing
-
+task30:Операторы: числовые, логические и бинарные. Опыт работы с Swing  
+task31:Работа с файлами и архивами.
