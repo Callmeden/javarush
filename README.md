@@ -38,4 +38,6 @@ task29:Autoboxing, особенности реализации
 task30:Операторы: числовые, логические и бинарные. Опыт работы с Swing    
 Course#4, Java Collections:  
 task31:Работа с файлами и архивами.  
-task32:RMI и динамический прокси. Опыт работы с Swing
+task32:RMI и динамический прокси. Опыт работы с Swing  
+task33:JSON, JavaScript. Опыт работы с Guava, Apache Commons Collections, JUnit  
+task34:Рекурсия. Сборка мусора и типы ссылок в Java. Логгирование
