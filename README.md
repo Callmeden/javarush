@@ -40,4 +40,5 @@ Course#4, Java Collections:
 task31:Работа с файлами и архивами.  
 task32:RMI и динамический прокси. Опыт работы с Swing  
 task33:JSON, JavaScript. Опыт работы с Guava, Apache Commons Collections, JUnit  
-task34:Рекурсия. Сборка мусора и типы ссылок в Java. Логгирование
+task34:Рекурсия. Сборка мусора и типы ссылок в Java. Логгирование  
+task35:Системы контроля версий: Git и SVN. Generics
